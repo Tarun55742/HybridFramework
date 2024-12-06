@@ -1,0 +1,31 @@
+Selenium hybrid framework
+
+(Python, Selenium, Pytest, Page Object model, Html Reports)
+------------------------------------------------------------
+What is framework?
+Organized way of maintaining the automation files..
+In the framework all the files will communicate each other to perform certain task.
+
+Objective goals:
+1) Reusability
+2) Maintainability
+
+Types of framework:
+1) Built in framework - pytest, robot framework, unittest etc...
+
+2) Custom/User defined framework
+Data Driven framework, Keyword driven framework, hybrid framework
+
+Steps
+------
+1) Analyze application, technology, skill set of team, choose test cases...
+
+2) Design and Implementation of framework...
+
+3) Execution
+
+4) Maintenance (Version control system)
+
+
+
+
